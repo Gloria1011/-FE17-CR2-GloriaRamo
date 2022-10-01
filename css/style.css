@@ -1,0 +1,44 @@
+.parent {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.parent img {
+    max-width: 100%;
+}
+
+.top-center {
+    position: absolute;
+    top: 34%;
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+    background: rgb(21 21 21 / 50%);
+    padding: 3%;
+}
+
+.priority-sort {
+    padding-right: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+.social-media-icons i {
+    border: 1px solid white;
+    padding: 5px;
+}
+
+
+.newsletter {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.marks {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

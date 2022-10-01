@@ -1,0 +1,74 @@
+let planner = `[
+    {
+        "category": "Task",
+        "image": "../images/list-card.avif",
+        "taskName": "Pharmaceutical Inventory",
+        "description": "Report all unopened, opened containers to the pharmacists.",
+        "importanceNr": 0,
+        "deadline": "30.10.2022"
+    },
+    {
+        "category": "Task",
+        "image": "../images/list-card.avif",
+        "taskName": "Insurance Provider",
+        "description": "I should sign a new contract by OBC insurance company.",
+        "importanceNr": 0,
+        "deadline": "11.10.2022"
+    },
+    {
+        "category": "Task",
+        "image": "../images/list-card.avif",
+        "taskName": "Assistance by the anaesthestic",
+        "description": "Preparation of patient before a general anesthesy in appendix area.",
+        "importanceNr": 0,
+        "deadline": "12.11.2022"
+    },
+    {
+        "category": "Task",
+        "image": "../images/list-card.avif",
+        "taskName": "Medical Expenses",
+        "description": "Regular routine health Check-up in the family physician.",
+        "importanceNr": 0,
+        "deadline": "08.11.2022"
+    },
+    {
+        "category": "Task",
+        "image": "../images/list-card.avif",
+        "taskName": "Lab Tests",
+        "description": "Check the Hemoglobin level and report to the cardiologist.",
+        "importanceNr": 0,
+        "deadline": "05.10.2022"
+    },
+    {
+        "category": "Task",
+        "image": "../images/list-card.avif",
+        "taskName": "Consultation by psychiatric",
+        "description": "Routine monthly examination to prevenet epileptic-general crises.",
+        "importanceNr": 0,
+        "deadline": "18.10.2022"
+    },
+    {
+        "category": "Task",
+        "image": "../images/list-card.avif",
+        "taskName": "Emergency first aid course",
+        "description": "Attend class on people how to provide CPR and first response care to an injure individual.",
+        "importanceNr": 0,
+        "deadline": "24.11.2022"
+    },
+    {
+        "category": "Task",
+        "image": "../images/list-card.avif",
+        "taskName": "TENS Therapy",
+        "description": "Prescribe TENS only for Mr.Right and report to the orthopedics.",
+        "importanceNr": 0,
+        "deadline": "10.12.2022"
+    },
+    {
+        "category": "Task",
+        "image": "../images/list-card.avif",
+        "taskName": "Elektrokardiogramm",
+        "description": "Perform EKG on Pathology department for possible diagnosis of arrhuthmias or endocarditis.",
+        "importanceNr": 0,
+        "deadline": "10.10.2022"
+    }
+]`;
